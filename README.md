@@ -8,5 +8,6 @@ Instructions
 # Steps 6-12:  Designing your content. 
 
 ![image](https://github.com/hebaomar94/-Create-wireframe-in-Figma/assets/97067717/0ddbe82d-a695-4e17-b538-c36f8219f029)
-<img width="933" alt="image" src="https://github.com/hebaomar94/-Create-wireframe-in-Figma/assets/97067717/74450a14-9f18-4ce7-aaa5-0d2eefb814c8">
+<img width="923" alt="image" src="https://github.com/hebaomar94/-Create-wireframe-in-Figma/assets/97067717/e2b8b765-c441-4bc3-b9fe-cb4e4479d30e">
+
 
